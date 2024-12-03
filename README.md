@@ -2,6 +2,9 @@
 
 Welcome to the Blackjack Game, a project developed during the BTS CIEL1 class. This simple yet entertaining game allows you to play the classic card game of Blackjack against the computer.
 
+![Blackjack Game Interface](Images/Preview.png)
+
+
 ## Requirements
 
 To run this project, you need to have Python installed on your system. Additionally, the game uses the `pygame` library for its graphical interface.
