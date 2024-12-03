@@ -14,8 +14,8 @@ To run this project, you need to have Python installed on your system. Additiona
 2. **Install Required Package**  
    Open a terminal or command prompt and run the following command to install the required package:
 
-   ```bash
-   pip install pygame
+```bash
+pip install pygame
  ```
 
 ## How to Run
